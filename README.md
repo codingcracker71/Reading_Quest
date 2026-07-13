@@ -1,7 +1,7 @@
 # Reading_Quest
 
 ## Project Description
-I made a main menu for a reading videogame.
+I made a main menu for a reading and writing mobile videogame.
 
 ## Intended User or Player:
 This game is designed for  3-8 year old children developing their reading and writing skills.
@@ -20,9 +20,10 @@ Color: I made the heading gold and made the buttons green, yellow, and purple; t
 
 Typography: The font for the buttons and heading is Georgia.
 
-Visual Hierarchy: The heading is at the top of the page, the buttons are at the center, and the footer is at the bottom right. The _Play_ button is first, the _Settings_ button is second, and the _Difficulty_ button is last.
+Visual Hierarchy: The heading is at the top of the page, the buttons are at the center, and the footer is at the bottom right. The _Play_ button is first, the _Settings_ button is second, and the _Difficulty_ button is third.
 
 Feedback states: When I hover over the buttons, they increase in size and change colors.
+
 Responsive design: When I shrink the screen size, the buttons, heading, shield image, and background image shrink to adjust.
 
 ## Technologies Used
