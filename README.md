@@ -1,7 +1,7 @@
 # Reading_Quest
 
-##Project Desription
-I made a videogame main menu for a reading game.
+
+I made a main menu for a reading videogame.
 
 ##Intended User or Player
 This game is designed for  3-8 year old children developing their reading and writing skills.
