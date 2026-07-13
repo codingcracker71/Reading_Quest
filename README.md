@@ -27,12 +27,12 @@ Feedback states: When I hover over the buttons, they increase in size and change
 Responsive design: When I shrink the screen size, the buttons, heading, shield image, and background image shrink to adjust.
 
 ## Technologies Used
-HTML
-CSS
-GitHub Pages
+- HTML
+- CSS
+- GitHub Pages
 
 ## Credits:
-tutorials for background images, grids, button styles, button types, vertical-align property, and media query provided by w3schools.com
+Tutorials for background images, grids, button styles, button types, vertical-align property, and media query provided by w3schools.com
 
 Background image name: _Cavaleiro Lutando Contra O Dragao Com Espada Na Illustracao Da Cena De Batalha De Fantasia_
 
