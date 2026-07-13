@@ -32,15 +32,15 @@ Responsive design: When I shrink the screen size, the buttons, heading, shield i
 - GitHub Pages
 
 ## Credits:
-Tutorials for background images, grids, button styles, button types, vertical-align property, and media query provided by w3schools.com
+- Tutorials for background images, grids, button styles, button types, vertical-align property, and media query provided by w3schools.com
 
-Background image name: _Cavaleiro Lutando Contra O Dragao Com Espada Na Illustracao Da Cena De Batalha De Fantasia_
+- Background image name: _Cavaleiro Lutando Contra O Dragao Com Espada Na Illustracao Da Cena De Batalha De Fantasia_
 
-Background image found on Pinterest and provided by Pikbest
+- Background image found on Pinterest and provided by Pikbest
 
-Golden shield image found on openclipart.org and provided by @inky2010
+- Golden shield image found on openclipart.org and provided by @inky2010
 
-Screen size research using: https://device-screen-size.utils.com  
+- Screen size research using: https://device-screen-size.utils.com  
 
 ## Future Improvements:
 If I had more time, I would add a simplified icon for the settings button. I would have also designed my own background image for the page, but I wanted the code to be a main priority.
