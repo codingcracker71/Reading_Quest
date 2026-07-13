@@ -1,1 +1,148 @@
+body {
+    background-image: url("../background_image/knight_dragon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grid-container {
+    display:grid;
+    grid-template-areas:"header" "header"
+   "content" "content"
+    "footer" "footer";
+    grid-template-columns: auto;
+    gap:2px;
+    padding:3px;
+}
+.grid-container div{
+    padding:10px;
+}
+
+.grid-container div.header{
+    grid-area:header;
+    text-align:center;
+    background-color:#663300;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration:underline;
+    font-family:Georgia, serif ;
+    color:#ffcc00;
+}
+.grid-container div.section{
+    grid-area:content;
+     margin:auto;
+    padding: 60px;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+     background-color: #00cc66;
+     display: inline-block;
+     color: white;
+    font-size: 40px;
+    font-family: Georgia, serif;
+    margin:40px 60px;
+    border-radius: 30px ; 
+    text-decoration: none;
+    padding:30px 45px ;
+    border:2px solid black;
+    font-weight: bold;
+}
+.button-settings {
+      background-color: #cc7a00;
+     display: inline-block;
+     color: white;
+    font-size: 15px;
+    font-family: Georgia, serif;
+    margin:15px 30px;
+    border-radius: 30px ; 
+    text-decoration: none;
+    padding:14px 40px ;
+    font-weight: bold;
+}
+img{
+    vertical-align:bottom;
+    width: 50px;
+}
+.button-difficulty{
+     background-color: #993366;
+     display: inline-block;
+     color: white;
+    font-size: 15px;
+    font-family: Georgia, serif;
+    margin:15px 30px;
+    border-radius: 30px ; 
+    text-decoration: none;
+    padding:10px 24px ;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color:#339966 ;
+    font-size: 55px;
+    font-weight: bolder;
+}
+
+.button-settings:hover{
+background-color:#995c00 ;
+font-size: 25px;
+}
+ 
+.button-difficulty:hover{
+background-color:#73264d;
+font-size:25px;
+}
+.grid-container div.footer{
+grid-area:footer;
+text-align: right;
+}
+footer{
+    color: white;
+    margin-top: 80px;
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 373px) and (max-width: 600px)  {
+h1 {font-size:30px;
+    padding:5px;
+}
+.button { font-size: 20px;
+}
+a:hover{
+    font-size:25px;
+}
+.button-settings{
+    font-size: 10px;
+}
+.button-settings:hover{
+    font-size: 14px;
+}
+.button-difficulty{
+    font-size: 10px;
+}
+.button-difficulty:hover{
+    font-size: 14px;
+}
+body{
+     background-image: url("../background_image/knight_dragon.jpg");
+    background-size:500px 775px;
+}
+img{
+    width:25px;
+}
+}
+
+@media screen and (min-width: 600px) and (max-width: 1024px) {
+body{
+    background-image: url("../background_image/knight_dragon.jpg");
+    background-size: 1000px 700px;
+}
+}
+
 
