@@ -6,7 +6,7 @@ I made a main menu for a reading videogame.
 Intended User or Player:
 This game is designed for  3-8 year old children developing their reading and writing skills.
 
-User / Player Goal:
+## User / Player Goal:
 The main goal is for players to access the game.
 
 Inspiration Interfaces:
