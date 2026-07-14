@@ -130,7 +130,7 @@ a:hover{
     font-size: 14px;
 }
 body{
-     background-image: url("/background_image/knight_dragon.jpg");
+     background-image: url("background_image/knight_dragon.jpg");
     background-size:500px 775px;
 }
 img{
@@ -140,7 +140,7 @@ img{
 
 @media screen and (min-width: 600px) and (max-width: 1024px) {
 body{
-    background-image: url("/background_image/knight_dragon.jpg");
+    background-image: url("background_image/knight_dragon.jpg");
     background-size: 1000px 700px;
 }
 }
