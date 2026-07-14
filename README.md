@@ -43,7 +43,7 @@ Responsive design: When I shrink the screen size, the buttons, heading, shield i
 - Screen size research using: https://device-screen-size.utils.com  
 
 ## Future Improvements:
-If I had more time, I would add a simplified icon for the settings button. I would have also designed my own background image for the page, but I wanted the code to be a main priority.
+If I had more time, I would shorten the brown grid behind the heading to fit around it more. I also would have tried to make my footer stick without moving every time a button was hovered over.
 
 
 
